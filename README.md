@@ -66,13 +66,15 @@ Bug lifecycle followed:
 ---
 
 ## 📸 Screenshots
-- Jira Backlog
-- ![Backlog](jira-backlog.png)
-- Jira Board
-- ![Backlog]jira-board.png)
-- Bug details
-- ![Backlog]bug-login-error.png)
----
+
+### Jira Backlog
+![Backlog](backlog.png)
+
+### Jira Board
+![Board](board.png)
+
+### Bug Details
+![Bug](bug1.png)
 
 ## 📚 Learning Outcome
 - Hands-on experience with Jira  
